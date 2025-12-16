@@ -1,0 +1,6 @@
+pandas
+google-play-scraper  # Used in get_data.py for scraping
+nltk                 # Used in clean_data.py and run_analysis.py for text processing and VADER
+scikit-learn         # Used in run_analysis.py for LDA Topic Modeling
+matplotlib           # Used in visualize_results.py for plotting
+seaborn              # Used in visualize_results.py for advanced statistical plotting
